@@ -1,3 +1,4 @@
+# KR2: Grinevich
 import os
 import socket
 
